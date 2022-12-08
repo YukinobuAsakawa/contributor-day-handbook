@@ -15,7 +15,7 @@ WordCamp Contributor Day を開催している場合は、contributor day セッ
 
 ## Contributor Day USB スティックを使用した VVV のインストール
 
-During Contributor Days there might be USB sticks available containing the latest version of VVV which is already configured for use. This means that you won’t need to download the packages over Wi-Fi. However, you will still need to download some items and should follow the instructions provided in the files on the USB stick to get set up. 
+Contributor Days 中は、使用できるように構成済みの最新バージョンの VVV を含む USB スティックが利用できる場合があります。 これは、Wi-Fi 経由でパッケージをダウンロードする必要がないことを意味します。 ただし、いくつかのアイテムをダウンロードする必要があり、USB スティックのファイルに記載されている手順に従ってセットアップする必要があります。
 
 
 ## Installing VVV without a Contributor Day USB stick
