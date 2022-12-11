@@ -18,9 +18,9 @@ WordCamp Contributor Day を開催している場合は、contributor day セッ
 Contributor Days 中は、使用できるように構成済みの最新バージョンの VVV を含む USB スティックが利用できる場合があります。 これは、Wi-Fi 経由でパッケージをダウンロードする必要がないことを意味します。 ただし、いくつかのアイテムをダウンロードする必要があり、USB スティックのファイルに記載されている手順に従ってセットアップする必要があります。
 
 
-## Installing VVV without a Contributor Day USB stick
+## Contributor Day USB スティックを使用しない VVV のインストール
 
-If you don’t have a Contributor Day USB stick available, follow the instructions below:
+コントリビューター デイの USB スティックを利用できない場合は、次の手順に従ってください。
 
 1. Install[ VirtualBox 6.x](https://www.virtualbox.org/wiki/Downloads)
 2. Install[ Vagrant 2.2.15+](https://www.vagrantup.com/downloads.html)
