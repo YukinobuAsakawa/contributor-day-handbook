@@ -29,7 +29,7 @@ Contributor Days 中は、使用できるように構成済みの最新バージ
 
 ## Start up VVV
 
-1. In the command line/terminal, navigate to the directory where you installed VVV. You can sometimes drag and drop the folder on to the terminal as a fast way to type the path of the directory. **If you are on Windows this must be run with elevated administrator privileges**.
+1.コマンドライン/ターミナルで、VVV をインストールしたディレクトリに移動します。 ディレクトリのパスをすばやく入力する方法として、フォルダを端末にドラッグ アンド ドロップできる場合があります。 Windows を使用している場合、これは昇格された管理者権限で実行する必要があります。
 2. Install local vagrant plugins if you have not already by running this command: `vagrant plugin install --local`
 3. Start VVV by running command `vagrant up`, the first time you do this will take a while
 4. When complete, you should see a VVV logo with a happy teddy bear.
