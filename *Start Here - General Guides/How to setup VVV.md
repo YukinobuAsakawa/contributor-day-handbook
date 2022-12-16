@@ -22,9 +22,9 @@ Contributor Days 中は、使用できるように構成済みの最新バージ
 
 コントリビューター デイの USB スティックを利用できない場合は、次の手順に従ってください。
 
-1. Install[ VirtualBox 6.x](https://www.virtualbox.org/wiki/Downloads)
-2. Install[ Vagrant 2.2.15+](https://www.vagrantup.com/downloads.html)
-3. Restart your computer
+1. [ VirtualBox 6.x](https://www.virtualbox.org/wiki/Downloads) のインストール
+2. [ Vagrant 2.2.15+](https://www.vagrantup.com/downloads.html) のインストール
+3. 再起動
 4. Follow the VVV [installation instructions](https://varyingvagrantvagrants.org/docs/en-US/installation/).
 
 ## Start up VVV
