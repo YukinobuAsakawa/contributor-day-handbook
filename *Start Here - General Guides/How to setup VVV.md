@@ -32,7 +32,7 @@ Contributor Days 中は、使用できるように構成済みの最新バージ
 1.コマンドライン/ターミナルで、VVV をインストールしたディレクトリに移動します。 ディレクトリのパスをすばやく入力する方法として、フォルダを端末にドラッグ アンド ドロップできる場合があります。 Windows を使用している場合、これは昇格された管理者権限で実行する必要があります。
 2. 2. ローカル vagrant プラグインをまだインストールしていない場合は、次のコマンドを実行してインストールします。: `vagrant plugin install --local`
 3. 3. コマンド vagrant up を実行して VVV を開始します。これを初めて実行するときは、しばらく時間がかかります。
-4. When complete, you should see a VVV logo with a happy teddy bear.
+4. 完了すると、幸せなテディベアの VVV ロゴが表示されます。
 5. Visit `http://vvv.test` in your browser. You should see a listing of all the sites VVV created, as well as links to other administration-related tools.
 
 ## Enabling trunk and the meta environment
