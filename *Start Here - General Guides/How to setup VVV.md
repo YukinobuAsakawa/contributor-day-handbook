@@ -33,7 +33,7 @@ Contributor Days 中は、使用できるように構成済みの最新バージ
 2. 2. ローカル vagrant プラグインをまだインストールしていない場合は、次のコマンドを実行してインストールします。: `vagrant plugin install --local`
 3. 3. コマンド vagrant up を実行して VVV を開始します。これを初めて実行するときは、しばらく時間がかかります。
 4. 完了すると、幸せなテディベアの VVV ロゴが表示されます。
-5. Visit `http://vvv.test` in your browser. You should see a listing of all the sites VVV created, as well as links to other administration-related tools.
+5. 5. ブラウザで http://vvv.test にアクセスします。 VVV が作成したすべてのサイトのリストと、その他の管理関連ツールへのリンクが表示されます。
 
 ## Enabling trunk and the meta environment
 
