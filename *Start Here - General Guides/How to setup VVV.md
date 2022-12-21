@@ -37,7 +37,7 @@ Contributor Days 中は、使用できるように構成済みの最新バージ
 
 ## Enabling trunk and the meta environment
 
-VVV also includes the following two environments:
+VVV には、次の 2 つの環境も含まれます。
 
 *   [http://trunk.wordpress.test/](http://trunk.wordpress.test/) An SVN-based WordPress core trunk setup, useful for Contributor Days, Trac tickets, patches, general core contributing, etc.
 *   [http://wp-meta.test](http://wpmeta.test) A collection of sites for contributing to WordPress.org
