@@ -39,7 +39,7 @@ Contributor Days 中は、使用できるように構成済みの最新バージ
 
 VVV には、次の 2 つの環境も含まれます。
 
-*   [http://trunk.wordpress.test/](http://trunk.wordpress.test/) An SVN-based WordPress core trunk setup, useful for Contributor Days, Trac tickets, patches, general core contributing, etc.
+* http://trunk.wordpress.test/ SVN ベースの WordPress コアトランクのセットアップで、Contributor Days、Trac チケット、パッチ、一般的なコアの貢献などに便利です。
 *   [http://wp-meta.test](http://wpmeta.test) A collection of sites for contributing to WordPress.org
 
 These two sites are disabled by default if you are installing VVV without the script on Contributor Day USB sticks. 
