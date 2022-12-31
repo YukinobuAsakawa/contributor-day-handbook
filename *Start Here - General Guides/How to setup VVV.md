@@ -42,7 +42,7 @@ VVV には、次の 2 つの環境も含まれます。
 * http://trunk.wordpress.test/ SVN ベースの WordPress コアトランクのセットアップで、Contributor Days、Trac チケット、パッチ、一般的なコアの貢献などに便利です。
 * http://wp-meta.test WordPress.orgに貢献するためのサイト集
 
-These two sites are disabled by default if you are installing VVV without the script on Contributor Day USB sticks. 
+コントリビューターデイのUSBメモリにスクリプトなしでVVVをインストールする場合、この2つのサイトはデフォルトで無効になっています。
 
 To enable these environments, check if you have a `config/config.yml` file in your VVV folder. If you don't have a `config.yml` file, then run `vagrant status` and it will be created for you. In `config.yml`, look for the `wordpress-trunk` and `wordpress-meta-environment` and change `skip_provisioning: true` to `skip_provisioning: false` and save. Finally, run `vagrant up --provision` to apply the change. This will take some time to run, especially if you have enabled the Meta environment.
 
