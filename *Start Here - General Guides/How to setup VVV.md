@@ -44,9 +44,9 @@ VVV には、次の 2 つの環境も含まれます。
 
 コントリビューターデイのUSBメモリにスクリプトなしでVVVをインストールする場合、この2つのサイトはデフォルトで無効になっています。
 
-To enable these environments, check if you have a `config/config.yml` file in your VVV folder. If you don't have a `config.yml` file, then run `vagrant status` and it will be created for you. In `config.yml`, look for the `wordpress-trunk` and `wordpress-meta-environment` and change `skip_provisioning: true` to `skip_provisioning: false` and save. Finally, run `vagrant up --provision` to apply the change. This will take some time to run, especially if you have enabled the Meta environment.
+これらの環境を有効にするには、VVV フォルダに config/config.yml ファイルがあるかどうかを確認します。config.yml ファイルがない場合は、vagrant status を実行すると、ファイルが作成されます。config.yml で wordpress-trunk と wordpress-meta-environment を探し、skip_provisioning: true を skip_provisioning: false に変更し保存してください。最後に、vagrant up --provision を実行して、変更を適用します。特にMeta環境を有効にしている場合は、実行に時間がかかります。
 
-For example to enable the trunk site, here is before:
+例えばtrunkサイトを有効にする場合、以下のようにします。
 
 ```yaml
   wordpress-trunk:
